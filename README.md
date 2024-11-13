@@ -30,5 +30,5 @@ The application is built with a **Node.js backend** for handling data and a **Re
    cd product-dashboard
    npm install
    npm run dev
--Open the application in your browser at http://localhost:5173/```
+#Open the application in your browser at http://localhost:5173/
   
