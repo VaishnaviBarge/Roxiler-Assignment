@@ -13,6 +13,7 @@ The application is built with a **Node.js backend** for handling data and a **Re
 ![image](https://github.com/VaishnaviBarge/Roxiler-Assignment/blob/a58ca45f86d0ce26f2c808a2fc4014cb081309d4/Sales1.PNG)
 ![image](https://github.com/VaishnaviBarge/Roxiler-Assignment/blob/a58ca45f86d0ce26f2c808a2fc4014cb081309d4/Sales2.PNG)
 ![image](https://github.com/VaishnaviBarge/Roxiler-Assignment/blob/a58ca45f86d0ce26f2c808a2fc4014cb081309d4/Sales3.PNG)
+![image](https://github.com/VaishnaviBarge/Roxiler-Assignment/blob/e57b882fb35e8d17d2d0e173db9252c48f2a3d6b/Reportpdf.PNG)
 
 ## Technologies Used
 **Frontend**: React, React Router, Chart.js, html2canvas, jspdf
