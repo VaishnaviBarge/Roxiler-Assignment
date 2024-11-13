@@ -5,10 +5,14 @@ The application is built with a **Node.js backend** for handling data and a **Re
 
 ## Features
 **Data Visualization**: Interactive pie and bar charts displaying sales data.
-**Monthly Sales**: View and analyze sales data on a month-by-month basis.
+**Monthly Sales**: Analyze sales data on a month-by-month basis.
 **Product Search**: Easily search and filter through products.
 **PDF Report Generation**: Export sales reports in PDF format.
 **User-Friendly Interface**: Simple and intuitive UI for better user experience.
+
+![image](https://github.com/VaishnaviBarge/Roxiler-Assignment/blob/a58ca45f86d0ce26f2c808a2fc4014cb081309d4/Sales1.PNG)
+![image](https://github.com/VaishnaviBarge/Roxiler-Assignment/blob/a58ca45f86d0ce26f2c808a2fc4014cb081309d4/Sales2.PNG)
+![image](https://github.com/VaishnaviBarge/Roxiler-Assignment/blob/a58ca45f86d0ce26f2c808a2fc4014cb081309d4/Sales3.PNG)
 
 ## Technologies Used
 **Frontend**: React, React Router, Chart.js, html2canvas, jspdf
