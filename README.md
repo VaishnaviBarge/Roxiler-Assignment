@@ -22,11 +22,11 @@ The application is built with a **Node.js backend** for handling data and a **Re
    ```bash
    git clone https://github.com/VaishnaviBarge/Roxiler-Assignment.git
    cd Roxiler-Assignment
--Backend
+#Backend
    cd ProductServer
    npm install
    npm start
--Frontend
+#Frontend
    cd product-dashboard
    npm install
    npm run dev
